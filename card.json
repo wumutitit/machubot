@@ -1,26 +1,26 @@
 {
     "KCBN_HY_1": [
         {
-            "name": "<:ac_emblem:1086608258464235540> **NewJeans Hyein** Bunny",
+            "name": "<:kgray:1105400337847816202><:1stamp:1105400920646361088> **NewJeans Hyein** Bunny",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_1.png?format=png",
             "theme": "Bunny",
-            "inv": "<:ac_emblem:1086608258464235540> Bunny"
+            "inv": "<:kgray:1105400337847816202> Bunny"
         }
     ],
     "KCBN_HY_2": [
         {
-            "name": "<:ab_emblem:1086608394401620110> **NewJeans Hyein** Bunny",
+            "name": "<:kblue:1105400582321213440><:2stamps:1105401031292108830> **NewJeans Hyein** Bunny",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_2.png?format=png",
             "theme": "Bunny",
-            "inv": "<:B_LOGO:1089020310508015626> Bunny"
+            "inv": "<:kblue:1105400582321213440> Bunny"
         }
     ],
     "KCBN_HY_3": [
         {
-            "name": "<:emblem_a:1094386551212998778> NewJeans Hyein** Bunny",
+            "name": "<:kviolet:1105400753650155550><:3stamps:1105401134279032884> NewJeans Hyein** Bunny",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_3.png?format=png",
             "theme": "Bunny",
-            "inv": "<:emblem_s:1094387291784495134> Bunny"
+            "inv": "<:kviolet:1105400753650155550> Bunny"
         }
     ]
-}
+}     
