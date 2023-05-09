@@ -26,7 +26,7 @@
     "KCFR_EC_1": [
         {
             "name": "<:kgray:1105400337847816202><:1stamp:1105400920646361088> **LE SSERAFIM Eunchae** Fries",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_1.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/eunchae/K_EC_1.png?format=png",
             "theme": "Fries",
             "inv": "<:kgray:1105400337847816202> Fries"
         }
@@ -34,7 +34,7 @@
     "KCFR_EC_2": [
         {
             "name": "<:kblue:1105400582321213440><:2stamps:1105401031292108830> **LE SSERAFIM Eunchae** Fries",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_2.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/eunchae/K_EC_2.png?format=png",
             "theme": "Fries",
             "inv": "<:kblue:1105400582321213440> Fries"
         }
@@ -42,7 +42,7 @@
     "KCFR_EC_3": [
         {
             "name": "<:kviolet:1105400753650155550><:3stamps:1105401134279032884> **LE SSERAFIM Eunchae** Fries",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_3.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/eunchae/K_EC_3.png?format=png",
             "theme": "Fries",
             "inv": "<:kviolet:1105400753650155550> Fries"
         }
