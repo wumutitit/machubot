@@ -1,74 +1,83 @@
 {
     "KCBN_HY_1": [
         {
-            "name": "<:kgray:1105400337847816202><:1stamp:1105400920646361088> **NewJeans Hyein** Bunny",
+            "name": "**NewJeans Hyein**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_1.png?format=png",
             "theme": "Bunny",
-            "inv": "<:kgray:1105400337847816202> Bunny"
+            "inv": "<:kgray:1105400337847816202> Bunny",
+            "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp"
         }
     ],
     "KCBN_HY_2": [
         {
-            "name": "<:kblue:1105400582321213440><:2stamps:1105401031292108830> **NewJeans Hyein** Bunny",
+            "name": "**NewJeans Hyein**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_2.png?format=png",
             "theme": "Bunny",
-            "inv": "<:kblue:1105400582321213440> Bunny"
+            "inv": "<:kblue:1105400582321213440> Bunny",
+            "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps"
         }
     ],
     "KCBN_HY_3": [
         {
-            "name": "<:kviolet:1105400753650155550><:3stamps:1105401134279032884> **NewJeans Hyein** Bunny",
+            "name": "**NewJeans Hyein**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/hyein/HY_K_3.png?format=png",
             "theme": "Bunny",
-            "inv": "<:kviolet:1105400753650155550> Bunny"
+            "inv": "<:kviolet:1105400753650155550> Bunny",
+            "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps"
         }
     ],
     "KCFR_EC_1": [
         {
-            "name": "<:kgray:1105400337847816202><:1stamp:1105400920646361088> **LE SSERAFIM Eunchae** Fries",
+            "name": "**LE SSERAFIM Eunchae**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/eunchae/K_EC_1.png?format=png",
             "theme": "Fries",
-            "inv": "<:kgray:1105400337847816202> Fries"
+            "inv": "<:kgray:1105400337847816202> Fries",
+            "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp" 
         }
     ],
     "KCFR_EC_2": [
         {
-            "name": "<:kblue:1105400582321213440><:2stamps:1105401031292108830> **LE SSERAFIM Eunchae** Fries",
+            "name": "**LE SSERAFIM Eunchae**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/eunchae/K_EC_2.png?format=png",
             "theme": "Fries",
-            "inv": "<:kblue:1105400582321213440> Fries"
+            "inv": "<:kblue:1105400582321213440> Fries",
+            "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps"
         }
     ],
     "KCFR_EC_3": [
         {
-            "name": "<:kviolet:1105400753650155550><:3stamps:1105401134279032884> **LE SSERAFIM Eunchae** Fries",
+            "name": "**LE SSERAFIM Eunchae**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/eunchae/K_EC_3.png?format=png",
             "theme": "Fries",
-            "inv": "<:kviolet:1105400753650155550> Fries"
+            "inv": "<:kviolet:1105400753650155550> Fries",
+            "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps"
         }
     ],
     "KCAN_LI_1": [
         {
-            "name": "<:kgray:1105400337847816202><:1stamp:1105400920646361088> **IVE Liz** Annyeong",
+            "name": "**IVE Liz**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/liz/K_LI_1.png?format=png",
             "theme": "Annyeong",
-            "inv": "<:kgray:1105400337847816202> Annyeong"
+            "inv": "<:kgray:1105400337847816202> Annyeong",
+            "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp"
         }
     ],
     "KCAN_LI_2": [
         {
-            "name": "<:kblue:1105400582321213440><:2stamps:1105401031292108830> **IVE Liz** Annyeong",
+            "name": "**IVE Liz**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/liz/K_LI_2.png?format=png",
             "theme": "Annyeong",
-            "inv": "<:kblue:1105400582321213440> Annyeong"
+            "inv": "<:kblue:1105400582321213440> Annyeong",
+            "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps"
         }
     ],
     "KCAN_LI_3": [
         {
-            "name": "<:kviolet:1105400753650155550><:3stamps:1105401134279032884> **IVE Liz** Annyeong",
+            "name": "**IVE Liz**",
             "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/liz/K_LI_3.png?format=png",
             "theme": "Annyeong",
-            "inv": "<:kviolet:1105400753650155550> Annyeong"
+            "inv": "<:kviolet:1105400753650155550> Annyeong",
+            "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps"
         }
     ]
 }
