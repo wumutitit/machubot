@@ -149,3 +149,64 @@
             "code": "`KCPP_JH_3`"
         }
     ],
+    "KCPE_JI_1": [
+        {
+            "name": "**TREASURE Jihoon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JH_1.png?format=png",
+            "theme": "Peace",
+            "inv": "<:kgray:1105400337847816202> Peace",
+            "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp",
+            "code": "`KCPE_JI_1`"
+        }
+    ],
+    "KCPE_JI_2": [
+        {
+            "name": "**TREASURE Jihoon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JH_2.png?format=png",
+            "theme": "Peace",
+            "inv": "<:kblue:1105400582321213440> Peace",
+            "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps",
+            "code" : "`KCPE_JI_2`"
+        }
+    ],
+    "KCPE_JI_3": [
+        {
+            "name": "**TREASURE Jihoon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JH_3.png?format=png",
+            "theme": "Peace",
+            "inv": "<:kviolet:1105400753650155550> Peace",
+            "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
+            "code": "`KCPE_JI_3`"
+        }
+    ],
+     "KCBS_JK_1": [
+        {
+            "name": "**ENHYPEN Jake**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jake/KC_JK_1.png?format=png",
+            "theme": "Bed Selca",
+            "inv": "<:kgray:1105400337847816202> Bed Selca",
+            "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp",
+            "code": "`KCBS_JK_1`"
+        }
+    ],
+    "KCBS_JK_2": [
+        {
+            "name": "**ENHYPEN Jake**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jake/KC_JK_2.png?format=png",
+            "theme": "Bed Selca",
+            "inv": "<:kblue:1105400582321213440> Bed Selca",
+            "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps",
+            "code" : "`KCBS_JK_2`"
+        }
+    ],
+    "KCBS_JK_3": [
+        {
+            "name": "**ENHYPEN Jake**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jake/KC_JK_3.png?format=png",
+            "theme": "Bed Selca",
+            "inv": "<:kviolet:1105400753650155550> Bed Selca",
+            "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
+            "code": "`KCBS_JK_3`"
+        }
+    ]
+}
