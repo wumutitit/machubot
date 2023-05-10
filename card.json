@@ -152,7 +152,7 @@
     "KCPE_JI_1": [
         {
             "name": "**TREASURE Jihoon**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JH_1.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JI_1.png?format=png",
             "theme": "Peace",
             "inv": "<:kgray:1105400337847816202> Peace",
             "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp",
@@ -162,7 +162,7 @@
     "KCPE_JI_2": [
         {
             "name": "**TREASURE Jihoon**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JH_2.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JI_2.png?format=png",
             "theme": "Peace",
             "inv": "<:kblue:1105400582321213440> Peace",
             "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps",
@@ -172,7 +172,7 @@
     "KCPE_JI_3": [
         {
             "name": "**TREASURE Jihoon**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JH_3.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/jihoon/KC_JI_3.png?format=png",
             "theme": "Peace",
             "inv": "<:kviolet:1105400753650155550> Peace",
             "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
@@ -207,6 +207,36 @@
             "inv": "<:kviolet:1105400753650155550> Bed Selca",
             "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
             "code": "`KCBS_JK_3`"
+        }
+    ],
+    "KCBR_DY_1": [
+        {
+            "name": "**TREASURE Doyoung**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/doyoung/KC_DY_1.png?format=png",
+            "theme": "BBIROTONGTONG",
+            "inv": "<:kgray:1105400337847816202> BBIROTONGTONG",
+            "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp",
+            "code": "`KCBR_DY_1`"
+        }
+    ],
+    "KCBR_DY_2": [
+        {
+            "name": "**TREASURE Doyoung**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/doyoung/KC_DY_2.png?format=png",
+            "theme": "BBIROTONGTONG",
+            "inv": "<:kblue:1105400582321213440> BBIROTONGTONG",
+            "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps",
+            "code" : "`KCBR_DY_2`"
+        }
+    ],
+    "KCBR_DY_3": [
+        {
+            "name": "**TREASURE Doyoung**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/doyounh/KC_DY_3.png?format=png",
+            "theme": "BBIROTONGTONG",
+            "inv": "<:kviolet:1105400753650155550> BBIROTONGTONG",
+            "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
+            "code": "`KCBR_DY_3`"
         }
     ]
 }
