@@ -88,7 +88,7 @@
             "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
             "code": "`KCAN_LI_3`"
         }
-    ]
+    ],
     "KCWC_WY_1": [
         {
             "name": "**IVE Wonyoung**",
@@ -118,4 +118,34 @@
             "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
             "code": "`KCWC_WY_3`"
         }
-    ]
+    ],
+    "KCPP_JH_1": [
+        {
+            "name": "**TREASURE Junghwan**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/junghwan/KC_JH_1.png?format=png",
+            "theme": "Pout+Peace",
+            "inv": "<:kgray:1105400337847816202> Pout+Peace",
+            "grade": "<:kgray:1105400337847816202> K-Common, <:1stamp:1105400920646361088> 1 stamp",
+            "code": "`KCPP_JH_1`"
+        }
+    ],
+    "KCPP_JH_2": [
+        {
+            "name": "**TREASURE Junghwan**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/junghwan/KC_JH_2.png?format=png",
+            "theme": "Pout+Peace",
+            "inv": "<:kblue:1105400582321213440> Pout+Peace",
+            "grade": "<:kblue:1105400582321213440> K-Common, <:2stamps:1105401031292108830> 2 stamps",
+            "code" : "`KCPP_JH_2`"
+        }
+    ],
+    "KCPP_JH_3": [
+        {
+            "name": "**TREASURE Junghwan**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/k_common/junghwan/KC_JH_3.png?format=png",
+            "theme": "Pout+Peace",
+            "inv": "<:kviolet:1105400753650155550> Pout+Peace",
+            "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
+            "code": "`KCPP_JH_3`"
+        }
+    ],
