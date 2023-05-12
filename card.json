@@ -262,5 +262,76 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> BOYS PLANET CGV",
             "code": "`ZBZH_CG_3`"
         }
-    ]
-}
+    ],
+    "TWNY_HE_1": [
+        {
+            "name": "**TWICE Nayeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/nayeon/TWNY_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> NAYEON SELCA",
+            "code": "`TWNY_HE_1`"
+        }
+    ],
+    "TWNY_HE_2": [
+        {
+            "name": "**TWICE Nayeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/nayeon/TWNY_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> NAYEON SELCA",
+            "code": "`TWNY_HE_2`"
+        }
+    ],
+    "TWNY_HE_3": [
+        {
+            "name": "**TWICE Nayeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/nayeon/TWNY_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> NAYEON SELCA",
+            "code": "`TWNY_HE_3`"
+        }
+    ],
+    "TWMN_PL_1": [
+        {
+            "name": "**TWICE Mina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/mina/TWMN_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> MINA SELCA",
+            "code": "`TWMN_PL_1`"
+        }
+    ],
+    "TWMN_PL_2": [
+        {
+            "name": "**TWICE Mina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/mina/TWMN_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> MINA SELCA",
+            "code": "`TWMN_PL_2`"
+        }
+    ],
+    "TWMN_PL_3": [
+        {
+            "name": "**TWICE Mina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/mina/TWMN_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> MINA SELCA",
+            "code": "`TWMN_PL_3`"
+        }
+    ],
+    "LSYJ_AF_1": [
+        {
+            "name": "**LE SSERAFIM Yunjin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/yunjin/LSYJ_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> LE SSERAFIM ANTIFRAGILE",
+            "code": "`LSYJ_AF_1`"
+        }
+    ],
+    "LSYJ_AF_2": [
+        {
+            "name": "**LE SSERAFIM Yunjin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/yunjin/LSYJ_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> LE SSERAFIM ANTIFRAGILE",
+            "code": "`LSYJ_AF_2`"
+        }
+    ],
+    "LSYJ_AF_3": [
+        {
+            "name": "**LE SSERAFIM Yunjin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/yunjin/LSYJ_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> LE SSERAFIM ANTIFRAGILE",
+            "code": "`LSYJ_AF_3`"
+        }
+    ],
