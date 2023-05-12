@@ -386,7 +386,7 @@
     "NJHR_OM_1": [
         {
             "name": "**NewJeans Haerin**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_1.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/haerin/NJHR_1.png?format=png",
             "inv": "<:starla:1106508251853508688> HAERIN OMG ERA",
             "code": "`NJHR_OM_1`"
         }
@@ -394,7 +394,7 @@
     "NJHR_OM_2": [
         {
             "name": "**NewJeans Haerin**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_2.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/haerin/NJHR_2.png?format=png",
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> HAERIN OMG ERA",
             "code": "`NJHR_OM_2`"
         }
@@ -402,8 +402,33 @@
     "NJHR_OM_3": [
         {
             "name": "**NewJeans Haerin**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_3.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/haerin/NJHR_3.png?format=png",
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> HAERIN OMG ERA",
             "code": "`NJHR_OM_3`"
         }
     ],
+    "ENJK_SE_1": [
+        {
+            "name": "**ENHYPEN Jake**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jake/ENJK_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> JAKE SELCA",
+            "code": "`ENJK_SE_1`"
+        }
+    ],
+    "ENJK_SE_2": [
+        {
+            "name": "**ENHYPEN Jake**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jake/ENJK_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> JAKE SELCA",
+            "code": "`ENJK_SE_2`"
+        }
+    ],
+    "ENJK_SE_3": [
+        {
+            "name": "**ENHYPEN Jake**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jake/ENJK_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> JAKE SELCA",
+            "code": "`ENJK_SE_3`"
+        }
+    ]
+}
