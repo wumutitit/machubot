@@ -335,3 +335,28 @@
             "code": "`LSYJ_AF_3`"
         }
     ],
+    "ZBTR_CG_1": [
+        {
+            "name": "**ZB1 Taerae**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/taerae/ZBTR_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> BOYS PLANET CGV",
+            "code": "`ZBTR_CG_1`"
+        }
+    ],
+    "ZBTR_CG_2": [
+        {
+            "name": "**ZB1 Taerae**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/taerae/ZHTR_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> BOYS PLANET CGV",
+            "code": "`ZBTR_CG_2`"
+        }
+    ],
+    "ZBTR_CG_3": [
+        {
+            "name": "**ZB1 Taerae**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/taerae/ZHTR_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> BOYS PLANET CGV",
+            "code": "`ZBTR_CG_3`"
+        }
+    ]
+}
