@@ -238,5 +238,29 @@
             "grade": "<:kviolet:1105400753650155550> K-Common, <:3stamps:1105401134279032884> 3 stamps",
             "code": "`KCBR_DY_3`"
         }
+    ],
+    "ZBZH_CG_1": [
+        {
+            "name": "**ZB1 Zhanghao**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/zhanghao/ZHCV_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> BOYS PLANET CGV",
+            "code": "`ZBZH_CG_1`"
+        }
+    ],
+    "ZBZH_CG_2": [
+        {
+            "name": "**ZB1 Zhanghao**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/zhanghao/ZHCV_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> BOYS PLANET CGV",
+            "code": "`ZBZH_CG_2`"
+        }
+    ],
+    "ZBZH_CG_3": [
+        {
+            "name": "**ZB1 Zhanghao**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/zhanghao/ZHCV_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> BOYS PLANET CGV",
+            "code": "`ZBZH_CG_3`"
+        }
     ]
 }
