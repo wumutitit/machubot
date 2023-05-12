@@ -346,7 +346,7 @@
     "ZBTR_CG_2": [
         {
             "name": "**ZB1 Taerae**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/taerae/ZHTR_2.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/taerae/ZBTR_2.png?format=png",
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> BOYS PLANET CGV",
             "code": "`ZBTR_CG_2`"
         }
@@ -354,9 +354,56 @@
     "ZBTR_CG_3": [
         {
             "name": "**ZB1 Taerae**",
-            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/taerae/ZHTR_3.png?format=png",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/taerae/ZBTR_3.png?format=png",
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> BOYS PLANET CGV",
             "code": "`ZBTR_CG_3`"
         }
-    ]
-}
+    ],
+    "TRJW_ST_1": [
+        {
+            "name": "**TREASURE Jeongwoo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> JEONGWOO STUDIO SELCA",
+            "code": "`TRJW_ST_1`"
+        }
+    ],
+    "TRJW_ST_2": [
+        {
+            "name": "**TREASURE Jeongwoo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> JEONGWOO STUDIO SELCA",
+            "code": "`TRJW_ST_2`"
+        }
+    ],
+    "TRJW_ST_3": [
+        {
+            "name": "**TREASURE Jeongwoo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> JEONGWOO STUDIO SELCA",
+            "code": "`TRJW_ST_3`"
+        }
+    ],
+    "NJHR_OM_1": [
+        {
+            "name": "**NewJeans Haerin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> HAERIN OMG ERA",
+            "code": "`NJHR_OM_1`"
+        }
+    ],
+    "NJHR_OM_2": [
+        {
+            "name": "**NewJeans Haerin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> HAERIN OMG ERA",
+            "code": "`NJHR_OM_2`"
+        }
+    ],
+    "NJHR_OM_3": [
+        {
+            "name": "**NewJeans Haerin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/jeongwoo/TRJW_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> HAERIN OMG ERA",
+            "code": "`NJHR_OM_3`"
+        }
+    ],
