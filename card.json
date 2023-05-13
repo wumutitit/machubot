@@ -430,5 +430,77 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> JAKE SELCA",
             "code": "`ENJK_SE_3`"
         }
+    ],
+    "ENSH_SE_1": [
+        {
+            "name": "**ENHYPEN Sunghoon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/sunghoon/ENSH_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> SUNGHOON SELCA",
+            "code": "`ENSH_SE_1`"
+        }
+    ],
+    "ENSH_SE_2": [
+        {
+            "name": "**ENHYPEN Sunghoon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/sunghoon/ENSH_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> SUNGHOON SELCA",
+            "code": "`ENSH_SE_2`"
+        }
+    ],
+    "ENSH_SE_3": [
+        {
+            "name": "**ENHYPEN Sunghoon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/sunghoon/ENSH_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> SUNGHOON SELCA",
+            "code": "`ENSH_SE_3`"
+        }
+    ],
+    "ENSN_SE_1": [
+        {
+            "name": "**ENHYPEN Sunoo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/sunoo/ENSN_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> SUNOO SELCA",
+            "code": "`ENSN_SE_1`"
+        }
+    ],
+    "ENSN_SE_2": [
+        {
+            "name": "**ENHYPEN Sunoo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/sunoo/ENSN_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> SUNOO SELCA",
+            "code": "`ENSN_SE_2`"
+        }
+    ],
+    "ENSN_SE_3": [
+        {
+            "name": "**ENHYPEN Sunoo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/sunoo/ENSN_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> SUNOO SELCA",
+            "code": "`ENSN_SE_3`"
+        }
+    ],
+    "NJHN_OM_1": [
+        {
+            "name": "**NewJeans Hanni**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/hanni/NJHN_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> HANNI OMG ERA",
+            "code": "`NJHN_OM_1`"
+        }
+    ],
+    "NJHN_OM_2": [
+        {
+            "name": "**NewJeans Hanni**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/hanni/NJHN_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> HANNI OMG ERA",
+            "code": "`NJHN_OM_2`"
+        }
+    ],
+    "NJHN_OM_3": [
+        {
+            "name": "**NewJeans Hanni**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/hanni/NJHN_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> HANNI OMG ERA",
+            "code": "`NJHN_OM_3`"
+        }
     ]
 }
