@@ -502,5 +502,77 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> HANNI OMG ERA",
             "code": "`NJHN_OM_3`"
         }
+    ],
+    "SKNC_BC_3": [
+        {
+            "name": "**Stray Kids Bangchan**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_BC.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_BC_3`"
+        }
+    ],
+    "SKNC_LK_3": [
+        {
+            "name": "**Stray Kids Lee Know**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_LK.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_LK_3`"
+        }
+    ],
+    "SKNC_CB_3": [
+        {
+            "name": "**Stray Kids Changbin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_CB.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_CB_3`"
+        }
+    ],
+    "SKNC_HA_3": [
+        {
+            "name": "**Stray Kids Han**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_HN.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_HA_3`"
+        }
+    ],
+    "SKNC_BC_3": [
+        {
+            "name": "**Stray Kids Bangchan**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_BC.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_BC_3`"
+        }
+    ],
+    "SKNC_HJ_3": [
+        {
+            "name": "**Stray Kids Hyunjin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_HJ.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_HJ_3`"
+        }
+    ],
+    "SKNC_FL_3": [
+        {
+            "name": "**Stray Kids Felix**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_FL.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_FL_3`"
+        }
+    ],
+    "SKNC_SM_3": [
+        {
+            "name": "**Stray Kids Seungmin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_SM.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_SM_3`"
+        }
+    ],
+    "SKNC_IN_3": [
+        {
+            "name": "**Stray Kids I.N**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/cards2/skz/c19/C19_IN.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> STRAY KIDS NACIFIC R19 ERA",
+            "code": "`SKNC_IN_3`"
+        }
     ]
 }
