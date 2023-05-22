@@ -382,5 +382,101 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
             "code": "`NJHY_R722_3`"
         }
+    ],
+    "AEKR_LTS_1": [
+        {
+            "name": "**aespa Karina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEKR_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEKR_LTS_1`"
+        }
+    ],
+    "AEKR_LTS_2": [
+        {
+            "name": "**aespa Karina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEKR_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEKR_LTS_2`"
+        }
+    ],
+    "AEKR_LTS_3": [
+        {
+            "name": "**aespa Karina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEKR_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEKR_LTS_3`"
+        }
+    ],
+    "AEWT_LTS_1": [
+        {
+            "name": "**aespa Winter**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEWT_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEWT_LTS_1`"
+        }
+    ],
+    "AEWT_LTS_2": [
+        {
+            "name": "**aespa Winter**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEWT_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEWT_LTS_2`"
+        }
+    ],
+    "AEWT_LTS_3": [
+        {
+            "name": "**aespa Winter**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEWT_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEWT_LTS_3`"
+        }
+    ],
+    "AEGS_LTS_1": [
+        {
+            "name": "**aespa Giselle**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEGS_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEGS_LTS_1`"
+        }
+    ],
+    "AEGS_LTS_2": [
+        {
+            "name": "**aespa Giselle**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEGS_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEGS_LTS_2`"
+        }
+    ],
+    "AEGS_LTS_3": [
+        {
+            "name": "**aespa Giselle**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AEGS_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AEGS_LTS_3`"
+        }
+    ],
+    "AENN_LTS_1": [
+        {
+            "name": "**aespa Ningning**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AENN_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Life's Too Short",
+            "code": "`AENN_LTS_1`"
+        }
+    ],
+    "AENN_LTS_2": [
+        {
+            "name": "**aespa Ningning**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AENN_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AENN_LTS_2`"
+        }
+    ],
+    "AENN_LTS_3": [
+        {
+            "name": "**aespa Ningning**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/aespa/lifestooshort/AENN_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
+            "code": "`AENN_LTS_3`"
+        }
     ]
 }
