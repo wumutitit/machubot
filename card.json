@@ -262,5 +262,125 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> HANNI OMG ERA",
             "code": "`NJHN_OM_3`"
         }
+    ],
+    "NJMJ_R722_1": [
+        {
+            "name": "**NewJeans Minji**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/MJR722_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJMJ_R722_1`"
+        }
+    ],
+    "NJMJ_R722_2": [
+        {
+            "name": "**NewJeans Minji**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/MJR722_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJMJ_R722_2`"
+        }
+    ],
+    "NJMJ_R722_3": [
+        {
+            "name": "**NewJeans Minji**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/MJR722_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJMJ_R722_3`"
+        }
+    ],
+    "NJHN_R722_1": [
+        {
+            "name": "**NewJeans Hanni**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HNR722_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHN_R722_1`"
+        }
+    ],
+    "NJHN_R722_2": [
+        {
+            "name": "**NewJeans Hanni**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HNR722_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHN_R722_2`"
+        }
+    ],
+    "NJHN_R722_3": [
+        {
+            "name": "**NewJeans Hanni**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HNR722_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHN_R722_3`"
+        }
+    ],
+    "NJDN_R722_1": [
+        {
+            "name": "**NewJeans Danielle**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/DNR722_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHN_R722_1`"
+        }
+    ],
+    "NJDN_R722_2": [
+        {
+            "name": "**NewJeans Danielle**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/DNR722_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHN_R722_2`"
+        }
+    ],
+    "NJDN_R722_3": [
+        {
+            "name": "**NewJeans Danielle**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/DNR722_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHN_R722_3`"
+        }
+    ],
+    "NJHR_R722_1": [
+        {
+            "name": "**NewJeans Haerin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HRR722_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHR_R722_1`"
+        }
+    ],
+    "NJHR_R722_2": [
+        {
+            "name": "**NewJeans Haerin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HRR722_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHR_R722_2`"
+        }
+    ],
+    "NJHR_R722_3": [
+        {
+            "name": "**NewJeans Haerin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HRR722_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHR_R722_3`"
+        }
+    ],
+    "NJHY_R722_1": [
+        {
+            "name": "**NewJeans Hyein**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HYR722_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHY_R722_1`"
+        }
+    ],
+    "NJHY_R722_2": [
+        {
+            "name": "**NewJeans Hyein**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HYR722_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHY_R722_2`"
+        }
+    ],
+    "NJHY_R722_3": [
+        {
+            "name": "**NewJeans Hyein**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/newjeans/room722/HYR722_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> NWJSS Room 722",
+            "code": "`NJHY_R722_3`"
+        }
     ]
 }
