@@ -478,5 +478,125 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Life's Too Short",
             "code": "`AENN_LTS_3`"
         }
+    ],
+    "LSSK_GP_1": [
+        {
+            "name": "**LE SSERAFIM Sakura**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSSK_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Good Parts",
+            "code": "`LSSK_GP_1`"
+        }
+    ],
+    "LSSK_GP_2": [
+        {
+            "name": "**LE SSERAFIM Sakura**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSSK_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSSK_GP_2`"
+        }
+    ],
+    "LSSK_GP_3": [
+        {
+            "name": "**LE SSERAFIM Sakura**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSSK_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSSK_GP_3`"
+        }
+    ],
+    "LSCH_GP_1": [
+        {
+            "name": "**LE SSERAFIM Chaewon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSCH_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Good Parts",
+            "code": "`LSCH_GP_1`"
+        }
+    ],
+    "LSCH_GP_2": [
+        {
+            "name": "**LE SSERAFIM Chaewon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSCH_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSCH_GP_2`"
+        }
+    ],
+    "LSCH_GP_3": [
+        {
+            "name": "**LE SSERAFIM Chaewon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSCH_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSCH_GP_3`"
+        }
+    ],
+    "LSYJ_GP_1": [
+        {
+            "name": "**LE SSERAFIM Yunjin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSYJ_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Good Parts",
+            "code": "`LSYJ_GP_1`"
+        }
+    ],
+    "LSYJ_GP_2": [
+        {
+            "name": "**LE SSERAFIM Yunjin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSYJ_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSYJ_GP_2`"
+        }
+    ],
+    "LSYJ_GP_3": [
+        {
+            "name": "**LE SSERAFIM Yunjin**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSYJ_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSYJ_GP_3`"
+        }
+    ],
+    "LSKZ_GP_1": [
+        {
+            "name": "**LE SSERAFIM Kazuha**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSKZ_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Good Parts",
+            "code": "`LSKZ_GP_1`"
+        }
+    ],
+    "LSKZ_GP_2": [
+        {
+            "name": "**LE SSERAFIM Kazuha**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSKZ_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSKZ_GP_2`"
+        }
+    ],
+    "LSKZ_GP_3": [
+        {
+            "name": "**LE SSERAFIM Kazuha**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSKZ_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSKZ_GP_3`"
+        }
+    ],
+    "LSEC_GP_1": [
+        {
+            "name": "**LE SSERAFIM Eunchae**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSEC_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Good Parts",
+            "code": "`LSEC_GP_1`"
+        }
+    ],
+    "LSEC_GP_2": [
+        {
+            "name": "**LE SSERAFIM Eunchae**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSEC_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSEC_GP_2`"
+        }
+    ],
+    "LSEC_GP_3": [
+        {
+            "name": "**LE SSERAFIM Eunchae**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/lesserafim/goodparts/LSEC_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
+            "code": "`LSEC_GP_3`"
+        }
     ]
 }
