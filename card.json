@@ -598,5 +598,125 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Good Parts",
             "code": "`LSEC_GP_3`"
         }
+    ],
+    "GIMY_QC_1": [
+        {
+            "name": "**G-IDLE Miyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIMY_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Queencard",
+            "code": "`GIMY_QC_1`"
+        }
+    ],
+    "GIMY_QC_2": [
+        {
+            "name": "**G-IDLE Miyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIMY_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GIMY_QC_2`"
+        }
+    ],
+    "GIMY_QC_3": [
+        {
+            "name": "**G-IDLE Miyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIMY_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GIMY_QC_3`"
+        }
+    ],
+    "GIMN_QC_1": [
+        {
+            "name": "**G-IDLE Minnie**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIMN_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Queencard",
+            "code": "`GIMN_QC_1`"
+        }
+    ],
+    "GIMN_QC_2": [
+        {
+            "name": "**G-IDLE Minnie**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIMN_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GIMN_QC_2`"
+        }
+    ],
+    "GIMN_QC_3": [
+        {
+            "name": "**G-IDLE Minnie**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIMN_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GIMN_QC_3`"
+        }
+    ],
+    "GISY_QC_1": [
+        {
+            "name": "**G-IDLE Soyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GISY_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Queencard",
+            "code": "`GISY_QC_1`"
+        }
+    ],
+    "GISY_QC_2": [
+        {
+            "name": "**G-IDLE Soyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GISY_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GISY_QC_2`"
+        }
+    ],
+    "GISY_QC_3": [
+        {
+            "name": "**G-IDLE Soyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GISY_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GISY_QC_3`"
+        }
+    ],
+    "GIYQ_QC_1": [
+        {
+            "name": "**G-IDLE Yuqi**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIYQ_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Queencard",
+            "code": "`GIYQ_QC_1`"
+        }
+    ],
+    "GIYQ_QC_2": [
+        {
+            "name": "**G-IDLE Yuqi**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIYQ_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GIYQ_QC_2`"
+        }
+    ],
+    "GIYQ_QC_3": [
+        {
+            "name": "**G-IDLE Yuqi**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GIYQ_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GIYQ_QC_3`"
+        }
+    ],
+    "GISH_QC_1": [
+        {
+            "name": "**G-IDLE Shuhua**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GISH_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> Queencard",
+            "code": "`GISH_QC_1`"
+        }
+    ],
+    "GISH_QC_2": [
+        {
+            "name": "**G-IDLE Shuhua**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GISH_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GISH_QC_2`"
+        }
+    ],
+    "GISH_QC_3": [
+        {
+            "name": "**G-IDLE Shuhua**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/gidle/queencard/GISH_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
+            "code": "`GISH_QC_3`"
+        }
     ]
 }
