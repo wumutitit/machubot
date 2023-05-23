@@ -718,5 +718,245 @@
             "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> Queencard",
             "code": "`GISH_QC_3`"
         }
+    ],
+    "TWNY_TF_1": [
+        {
+            "name": "**TWICE Nayeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWNY_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWNY_TF_1`"
+        }
+    ],
+    "TWNY_TF_2": [
+        {
+            "name": "**TWICE Nayeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWNY_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWNY_TF_2`"
+        }
+    ],
+    "TWNY_TF_3": [
+        {
+            "name": "**TWICE Nayeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWNY_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWNY_TF_3`"
+        }
+    ],
+    "TWJY_TF_1": [
+        {
+            "name": "**TWICE Jeongyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWJY_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWJY_TF_1`"
+        }
+    ],
+    "TWJY_TF_2": [
+        {
+            "name": "**TWICE Jeongyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWJY_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWJY_TF_2`"
+        }
+    ],
+    "TWJY_TF_3": [
+        {
+            "name": "**TWICE Jeongyeon**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWJY_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWJY_TF_3`"
+        }
+    ],
+    "TWMM_TF_1": [
+        {
+            "name": "**TWICE Momo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMM_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWMM_TF_1`"
+        }
+    ],
+    "TWMM_TF_2": [
+        {
+            "name": "**TWICE Momo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMM_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWMM_TF_2`"
+        }
+    ],
+    "TWMM_TF_3": [
+        {
+            "name": "**TWICE Momo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMM_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWMM_TF_3`"
+        }
+    ],
+    "TWSN_TF_1": [
+        {
+            "name": "**TWICE Sana**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWSN_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWSN_TF_1`"
+        }
+    ],
+    "TWSN_TF_2": [
+        {
+            "name": "**TWICE Sana**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWSN_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWSN_TF_2`"
+        }
+    ],
+    "TWSN_TF_3": [
+        {
+            "name": "**TWICE Sana**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWSN_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWSN_TF_3`"
+        }
+    ],
+    "TWJH_TF_1": [
+        {
+            "name": "**TWICE Jihyo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWJH_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWJH_TF_1`"
+        }
+    ],
+    "TWJH_TF_2": [
+        {
+            "name": "**TWICE Jihyo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWJH_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWJH_TF_2`"
+        }
+    ],
+    "TWJH_TF_3": [
+        {
+            "name": "**TWICE Jihyo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWJH_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWJH_TF_3`"
+        }
+    ],
+    "TWMM_TF_1": [
+        {
+            "name": "**TWICE Momo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMM_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWMM_TF_1`"
+        }
+    ],
+    "TWMM_TF_2": [
+        {
+            "name": "**TWICE Momo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMM_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWMM_TF_2`"
+        }
+    ],
+    "TWMM_TF_3": [
+        {
+            "name": "**TWICE Momo**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMM_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWMN_TF_3`"
+        }
+    ],
+    "TWMN_TF_1": [
+        {
+            "name": "**TWICE Mina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMN_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWMN_TF_1`"
+        }
+    ],
+    "TWMN_TF_2": [
+        {
+            "name": "**TWICE Mina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMN_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWMN_TF_2`"
+        }
+    ],
+    "TWMN_TF_3": [
+        {
+            "name": "**TWICE Mina**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWMN_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWMN_TF_3`"
+        }
+    ],
+    "TWDH_TF_1": [
+        {
+            "name": "**TWICE Dahyun**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWDH_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWDH_TF_1`"
+        }
+    ],
+    "TWDH_TF_2": [
+        {
+            "name": "**TWICE Dahyun**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWDH_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWDH_TF_2`"
+        }
+    ],
+    "TWDH_TF_3": [
+        {
+            "name": "**TWICE Dahyun**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWDH_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWDH_TF_3`"
+        }
+    ],
+    "TWCY_TF_1": [
+        {
+            "name": "**TWICE Chaeyoung**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWCY_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWCY_TF_1`"
+        }
+    ],
+    "TWCY_TF_2": [
+        {
+            "name": "**TWICE Chaeyoung**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWCY_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWCY_TF_2`"
+        }
+    ],
+    "TWCY_TF_3": [
+        {
+            "name": "**TWICE Chaeyoung**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWCY_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWCY_TF_3`"
+        }
+    ],
+    "TWTZ_TF_1": [
+        {
+            "name": "**TWICE Tzuyu**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWTZ_1.png?format=png",
+            "inv": "<:starla:1106508251853508688> The Feels",
+            "code": "`TWTZ_TF_1`"
+        }
+    ],
+    "TWTZ_TF_2": [
+        {
+            "name": "**TWICE Tzuyu**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWTZ_2.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWTZ_TF_2`"
+        }
+    ],
+    "TWTZ_TF_3": [
+        {
+            "name": "**TWICE Tzuyu**",
+            "image": "https://ihwannieu.sirv.com/machubot/cards/twice/thefeels/TWTZ_3.png?format=png",
+            "inv": "<:starla:1106508251853508688><:starla:1106508251853508688><:starla:1106508251853508688> The Feels",
+            "code": "`TWTZ_TF_3`"
+        }
     ]
 }
